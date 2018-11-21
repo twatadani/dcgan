@@ -1,1 +1,1 @@
-../dcgan_v1/config.py
+../dcgan_v2/config.py

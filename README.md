@@ -1,3 +1,3 @@
-# DCGAN ver. 0.1
+# DCGAN ver. 0.2
 
 Radford et alによるDCGANのpython / tensorflowによる私的な実装

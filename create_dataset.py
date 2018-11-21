@@ -1,1 +1,1 @@
-../dcgan_v1/create_dataset.py
+../dcgan_v2/create_dataset.py
