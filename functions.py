@@ -1,1 +1,1 @@
-../dcgan_v5/functions.py
+../dcgan_v6/functions.py
