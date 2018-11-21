@@ -1,1 +1,1 @@
-../dcgan_v6/create_dataset_tfrecord.py
+../dcgan_v6fix/create_dataset_tfrecord.py
