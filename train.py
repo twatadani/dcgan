@@ -1,1 +1,1 @@
-../dcgan_v3/train.py
+../dcgan_v4/train.py
