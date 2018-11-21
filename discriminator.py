@@ -1,1 +1,1 @@
-../dcgan_v4/discriminator.py
+../dcgan_v5/discriminator.py
