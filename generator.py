@@ -1,1 +1,1 @@
-../dcgan_v2/generator.py
+../dcgan_v3/generator.py
